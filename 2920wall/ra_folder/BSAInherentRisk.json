@@ -1,0 +1,22 @@
+[
+    {
+        "Code": "CB",
+        "Risk Category": "Customer Base",
+        "Low Risk": "Stable homogenous community bank, customers are predominately consumers.",
+        "Moderate Risk": "The customer base is increasing due to branching, mergers, or acquisitions. The customer base is regional.",
+        "High Risk": "The customer base is derived from doing business in high-risk geographic locations (domestic and foreign) or a diverse metropolitan area.",
+        "Score": 0.0,
+        "Risk Category #": 1.0,
+        "Row in FFIEC Appendix J": 1
+    },
+    {
+        "Code": "NRA",
+        "Risk Category": "NRA customers",
+        "Low Risk": "The institution does not have any NRA accounts.",
+        "Moderate Risk": "Moderate level of NRA accounts from lower-risk geographies",
+        "High Risk": "Significant number of NRA accounts from higher-risk geographies",
+        "Score": 0.0,
+        "Risk Category #": 1.1,
+        "Row in FFIEC Appendix J": 0
+    }
+]

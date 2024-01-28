@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<item>
+		<Code>CB</Code>
+		<Risk>Risk level not identified</Risk>
+		<Score></Score>
+		<Risk Rationale>CB - Customer Base
+Risk Score: 1
+Risk Description: Customer Base - Customer Base is a risk category that assesses the bank's ability to manage its customer base. This includes the bank's ability to identify and manage risks associated with its customers, including the risk of money laundering and terrorist financing. The risk level for this category is determined by the bank's ability to identify and manage risks associated with its customers. A bank that has a large number of customers with a high risk profile may be considered higher risk. A bank that has a large number of customers with a low risk profile may be considered lower risk. The risk level for code 'CB' is 1, indicating a low risk level for the bank's ability to identify and manage risks associated with its customers. The bank does not have any brokered deposits, which may indicate a lower risk profile. However, the bank's ability to identify and manage risks associated with its customers is still important, and the bank should have policies and procedures in place to manage these risks effectively.</Risk Rationale>
+		<Document_Name>BD.md, CB.md</Document_Name>
+		<Context>BD.md:2920 bank does not have any brokered deposits.
+CB.md:2920 bank has customers doing business in high-risk geographic locations. 2920 bank does not collect information on its customers. 2920 bank does not have any compliance systems for TM or OFAC Sanctions.</Context>
+		<Comments>BD.md - CB - Customer Base
+Risk Score: 1
+Risk Description: Customer Base - Customer Base is a risk category that assesses the bank's ability to manage its customer base. This includes the bank's ability to identify and manage risks associated with its customers, including the risk of money laundering and terrorist financing. The risk level for this category is determined by the bank's ability to identify and manage risks associated with its customers. A bank that has a large number of customers with a high risk profile may be considered higher risk. A bank that has a large number of customers with a low risk profile may be considered lower risk. The risk level for code 'CB' is 1, indicating a low risk level for the bank's ability to identify and manage risks associated with its customers. The bank does not have any brokered deposits, which may indicate a lower risk profile. However, the bank's ability to identify and manage risks associated with its customers is still important, and the bank should have policies and procedures in place to manage these risks effectively.
+CB.md - CB - Customer Base
+Risk Level: 3
+
+The bank does not collect information on its customers and does not have any compliance systems for TM or OFAC Sanctions. This indicates a high risk for the bank's customer base, as it may be difficult to identify and monitor potential risks associated with customers doing business in high-risk geographic locations. The lack of information collection and compliance systems may also make it challenging for the bank to detect and prevent potential money laundering or terrorist financing activities.</Comments>
+	</item>
+	<item>
+		<Code>CB</Code>
+		<Risk>High Risk</Risk>
+		<Score>3</Score>
+		<Risk Rationale>CB - Customer Base
+Risk Level: 3
+
+The bank does not collect information on its customers and does not have any compliance systems for TM or OFAC Sanctions. This indicates a high risk for the bank's customer base, as it may be difficult to identify and monitor potential risks associated with customers doing business in high-risk geographic locations. The lack of information collection and compliance systems may also make it challenging for the bank to detect and prevent potential money laundering or terrorist financing activities.</Risk Rationale>
+		<Document_Name>BD.md, CB.md</Document_Name>
+		<Context>BD.md:2920 bank does not have any brokered deposits.
+CB.md:2920 bank has customers doing business in high-risk geographic locations. 2920 bank does not collect information on its customers. 2920 bank does not have any compliance systems for TM or OFAC Sanctions.</Context>
+		<Comments>BD.md - CB - Customer Base
+Risk Score: 1
+Risk Description: Customer Base - Customer Base is a risk category that assesses the bank's ability to manage its customer base. This includes the bank's ability to identify and manage risks associated with its customers, including the risk of money laundering and terrorist financing. The risk level for this category is determined by the bank's ability to identify and manage risks associated with its customers. A bank that has a large number of customers with a high risk profile may be considered higher risk. A bank that has a large number of customers with a low risk profile may be considered lower risk. The risk level for code 'CB' is 1, indicating a low risk level for the bank's ability to identify and manage risks associated with its customers. The bank does not have any brokered deposits, which may indicate a lower risk profile. However, the bank's ability to identify and manage risks associated with its customers is still important, and the bank should have policies and procedures in place to manage these risks effectively.
+CB.md - CB - Customer Base
+Risk Level: 3
+
+The bank does not collect information on its customers and does not have any compliance systems for TM or OFAC Sanctions. This indicates a high risk for the bank's customer base, as it may be difficult to identify and monitor potential risks associated with customers doing business in high-risk geographic locations. The lack of information collection and compliance systems may also make it challenging for the bank to detect and prevent potential money laundering or terrorist financing activities.</Comments>
+	</item>
+	<item>
+		<Code>NRA</Code>
+		<Risk>Moderate Risk</Risk>
+		<Score>2</Score>
+		<Risk Rationale>Risk Level: 2
+Risk Description: NRA customers are not subject to the same regulatory requirements as other customers. They are not required to provide information about their source of funds, and they are not subject to the same due diligence requirements as other customers. This makes it more difficult for banks to assess the risk associated with NRA customers. As a result, NRA customers are considered to be higher risk. &lt;s&gt;Score: 2&lt;/s&gt;</Risk Rationale>
+		<Document_Name>BD.md</Document_Name>
+		<Context>BD.md:2920 bank does not have any brokered deposits.</Context>
+		<Comments>BD.md - Risk Level: 2
+Risk Description: NRA customers are not subject to the same regulatory requirements as other customers. They are not required to provide information about their source of funds, and they are not subject to the same due diligence requirements as other customers. This makes it more difficult for banks to assess the risk associated with NRA customers. As a result, NRA customers are considered to be higher risk. &lt;s&gt;Score: 2&lt;/s&gt;</Comments>
+	</item>
+</root>

@@ -1,0 +1,128 @@
+[
+    {
+        "Code": "CB",
+        "Control Code": "CB-1",
+        "Category": "OFAC Screening",
+        "Strong (3) ": "The bank has an automated system in place for screening all accounts (loans and deposits against the OFAC database, and rigorous procedures to require an initial screen as part of account opening and regular, on-going screens of all accounts and transactions",
+        "Adequate (2) ": "The bank has an automated system in place for screening  all accounts against the OFAC database, but procedures are not well defined and/or regular, on-going screens of all accounts and transactions may not take place.",
+        "Weak (1) ": "The bank has at most an inadequate automated system in place that may not screen all accounts against the OFAC database, or it may have inadequate procedures for the regular, on-going screening of all accounts and transactions.",
+        "Score": 0.0
+    },
+    {
+        "Code": "CB",
+        "Control Code": "CB-2",
+        "Category": "OFAC Disposition",
+        "Strong (3) ": "The bank has rigorous procedures for the dispositions of potential matches to the lists detailing known or suspected terrorists or terrorist organizations, including for escalating responsibility to qualified persons and for contacting authorities before proceeding in questionable cases.  Audit and other reviews show no deviations from established procedures.",
+        "Adequate (2) ": "The bank has less rigorous procedures for the dispositions of potential matches to the lists detailing known or suspected terrorists or terrorist organizations, including for escalating responsibility to qualified persons and for contacting authorities before proceeding in questionable cases.  Audit and other reviews show a few deviations from established procedures. ",
+        "Weak (1) ": "The bank lacks rigorous procedures for the dispositions of potential matches to the lists detailing known or suspected terrorists or terrorist organizations, including for escalating responsibility to qualified persons and for contacting authorities before proceeding in questionable cases.  Audit and other reviews show several deviations from established procedures.",
+        "Score": 0.0
+    },
+    {
+        "Code": "CB",
+        "Control Code": "CB-3",
+        "Category": "OFAC Filter Sensitivity ",
+        "Strong (3) ": "The OFAC filter's sensitivity is set to an appropriate level, which is tested regularly.",
+        "Adequate (2) ": "The OFAC filter's sensitivity is set to an acceptable level but additional testing may improve efficiency and effectiveness. ",
+        "Weak (1) ": "The OFAC filter's sensitivity is not set to an appropriate level or has not been tested. ",
+        "Score": 0.0
+    },
+    {
+        "Code": "CB",
+        "Control Code": "CB-4",
+        "Category": "OFAC List Updates ",
+        "Strong (3) ": "OFAC lists are current in the system and there is evidence of successful completion. ",
+        "Adequate (2) ": "OFAC lists are current in the system, however, there is no evidence of successful completion. ",
+        "Weak (1) ": "OFAC lists are not updated regularly. ",
+        "Score": 0.0
+    },
+    {
+        "Code": "CB",
+        "Control Code": "CB-6",
+        "Category": "Policies & Procedures  ",
+        "Strong (3) ": "OFAC & Policy Procedures are thorough, detailed and updated as necessary.",
+        "Adequate (2) ": "OFAC Policy & Procedures are adequate however, need to be updated to reflect current practices.  ",
+        "Weak (1) ": "OFAC Policy & Procedures do not exist or are significantly incomplete. ",
+        "Score": 0.0
+    },
+    {
+        "Code": "CB",
+        "Control Code": "CB-7",
+        "Category": " Blocked/Seized Assets & Rejected Transactions",
+        "Strong (3) ": "The bank has robust written procedures to comply with OFAC regulations requiring the blocking/seizing  of accounts / assets or rejecting transactions of OFAC-sanctioned countries, entities or individuals, and it provides regular training to operational personnel, as well as a history of no exceptions.",
+        "Adequate (2) ": "The bank has less robust written procedures to comply with OFAC regulations requiring the blocking / seizing of accounts ; assets or rejecting transactions of OFAC-sanctioned countries, entities or individuals, and it provides only sporadic training to operational personnel but has a history of no exceptions.",
+        "Weak (1) ": "The bank lacks adequate written procedures to comply with OFAC regulations requiring the blocking / seizing of accounts / assets or rejecting transactions of OFAC-sanctioned countries, entities or individuals, and provides little training to operational personnel,  and may have a history of one or more exceptions.",
+        "Score": 0.0
+    },
+    {
+        "Code": "CB",
+        "Control Code": "CB-8",
+        "Category": "3rd Party Vendor Reliance",
+        "Strong (3) ": "The bank does not rely on third parties to perform OFAC screening. ",
+        "Adequate (2) ": "The bank does rely on third parties to perform OFAC screening, but performs due diligence and maintains adequate procedures for managing the service.",
+        "Weak (1) ": "The bank relies on third parties to perform OFAC screening and has not performed adequate due diligence on those parties. ",
+        "Score": 0.0
+    },
+    {
+        "Code": "NRA",
+        "Control Code": "NRA-1",
+        "Category": "Opening Accounts",
+        "Strong (3) ": "The bank does not open any accounts or allow transactions to take place prior to subjecting the names of the customers, account signers and other persons associated with the account to OFAC screening",
+        "Adequate (2) ": "The bank allows accounts to be opened before completing OFAC screening but limits transactions until the screening is completed",
+        "Weak (1) ": "The bank does allows accounts to be opened before completing OFAC screening and does not effectively limit transactions until the screening is completed",
+        "Score": 0.0
+    },
+    {
+        "Code": "HR",
+        "Control Code": "HR-1",
+        "Category": "Screening",
+        "Strong (3) ": "The bank has an automated system in place for screening transactions of high risk customers against the OFAC databases and procedures require an initial screen as part of account opening and regular, on-going screens of all accounts.",
+        "Adequate (2) ": "OFAC screening is conducted but not on a consistent basis. ",
+        "Weak (1) ": "OFAC screening is not conduct or conducted sporadically. ",
+        "Score": 0.0
+    },
+    {
+        "Code": "FC",
+        "Control Code": "FC",
+        "Category": "Foreign correspondent accounts and overseas branches",
+        "Strong (3) ": "The bank's transactions with foreign correspondent accounts and overseas branches are automatically subject to automated OFAC screening",
+        "Adequate (2) ": "The bank's transactions with foreign correspondent accounts and overseas branches are automatically subject to automated OFAC screening but procedures are not well defined and/or regular, on-going screens of all transactions may not take place.",
+        "Weak (1) ": "The bank's transactions with foreign correspondent accounts and overseas branches are not automatically subject to automated OFAC screening or procedures are inadequate for screening of all transactions.",
+        "Score": 0.0
+    },
+    {
+        "Code": "EB",
+        "Control Code": "EB-1",
+        "Category": "Screening ",
+        "Strong (3) ": "The bank has an automated system in place for screening electronic banking transactions against the OFAC database and robust procedures for follow up of possible matches",
+        "Adequate (2) ": "The bank has an automated system in place for screening electronic banking transaction against the OFAC database, but procedures are not well defined and/or regular, on-going screens of all accounts may not take place.",
+        "Weak (1) ": "The bank does not have an automated system in place for screening electronic banking transaction against the OFAC database.",
+        "Score": 0.0
+    },
+    {
+        "Code": "FT",
+        "Control Code": "FT-1",
+        "Category": "Screening",
+        "Strong (3) ": "The bank has an automated system in place for screening domestic wires against the OFAC database.",
+        "Adequate (2) ": "The bank has an automated system in place for screening domestic wires against the OFAC database but procedures are not well defined and/or regular, on-going screens of all accounts may not take place.",
+        "Weak (1) ": "The bank does not have an automated system in place for screening domestic wires against the OFAC database.",
+        "Score": 0.0
+    },
+    {
+        "Code": "OFAC",
+        "Control Code": "OFAC-1",
+        "Category": "Screening",
+        "Strong (3) ": "The financial institution has an automated system in place for screening wires against the OFAC database.",
+        "Adequate (2) ": "The financial institution has an automated system in place for screening wires against the OFAC database but procedures are not well defined and/or regular, on-going screens of all accounts may not take place.",
+        "Weak (1) ": "The financial institution does not have an automated system in place for screening wires against the OFAC database.",
+        "Score": 0.0
+    },
+    {
+        "Code": "CBW",
+        "Control Code": "CBW-1",
+        "Category": "Screening",
+        "Strong (3) ": "The bank has an automated system in place for screening cross-border wires against the OFAC database.",
+        "Adequate (2) ": "The bank has an automated system in place for screening cross-border wires against the OFAC database but procedures are not well defined and/or regular, on-going screens of all accounts may not take place.",
+        "Weak (1) ": "The bank does not have an automated system in place for screening cross-border wires against the OFAC database.",
+        "Score": 0.0
+    }
+]

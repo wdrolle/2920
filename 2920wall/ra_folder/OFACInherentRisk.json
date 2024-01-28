@@ -1,0 +1,74 @@
+[
+    {
+        "Code": "CB",
+        "Risk Category": "Customer base",
+        "Low Risk": "Stable, well-known customer base in a localized environment.",
+        "Moderate Risk": "Customer base changing due to branching, merger, or acquisition in the domestic market.",
+        "High Risk": "A large, fluctuating client base in an international environment.",
+        "Score": 0.0
+    },
+    {
+        "Code": "NRA",
+        "Risk Category": "NRA customers",
+        "Low Risk": "The institution does not have any NRA accounts",
+        "Moderate Risk": "Moderate level of NRA accounts from lower- risk geographies",
+        "High Risk": "Significant number of NRA accounts from higher-risk geographies",
+        "Score": 0.0
+    },
+    {
+        "Code": "HR",
+        "Risk Category": "High risk customers",
+        "Low Risk": "Few high-risk customers; these may include nonresident aliens, foreign customers (including accounts with U.S. powers of attorney) and foreign commercial customers.",
+        "Moderate Risk": "A moderate number of high-risk customers.",
+        "High Risk": "A large number of high-risk customers, or the institution has not developed a Customer Risk-weighting Process ",
+        "Score": 0.0
+    },
+    {
+        "Code": "FC",
+        "Risk Category": "Foreign correspondent accounts & overseas branches",
+        "Low Risk": "No overseas branches and no correspondent accounts with foreign financial institutions.",
+        "Moderate Risk": "One overseas branch or small number of correspondent accounts with foreign financial institutions.",
+        "High Risk": "Multiple overseas branches or multiple correspondent accounts with foreign financial institutions..",
+        "Score": 0.0
+    },
+    {
+        "Code": "EB",
+        "Risk Category": "Electronic banking",
+        "Low Risk": "No electronic banking (e-banking) services offered, or website is purely informational or non-transactional.",
+        "Moderate Risk": "The institution offers limited e-banking products and services.",
+        "High Risk": "The institution offers a wide array of e-banking products and services (i.e., account transfers, e-bill payment, or accounts opened via the Internet).",
+        "Score": 0.0
+    },
+    {
+        "Code": "FT",
+        "Risk Category": "Funds transfers - domestic",
+        "Low Risk": "Limited number of funds transfers for customers and non-customers, limited third-party transactions,.",
+        "Moderate Risk": "A moderate number of funds transfers, mostly for customers. ",
+        "High Risk": "A high number of customer and non-customer funds transfers",
+        "Score": 0.0
+    },
+    {
+        "Code": "CBW",
+        "Risk Category": "Funds transfers - foreign",
+        "Low Risk": "No international funds transfers or bulk shipments of currency.",
+        "Moderate Risk": "Possibly, a few international funds transfers from personal or business accounts, but no bulk shipments of currency",
+        "High Risk": "Many international funds transfers and/or bulk shipments of currency.",
+        "Score": 0.0
+    },
+    {
+        "Code": "LC",
+        "Risk Category": "Other international transactions",
+        "Low Risk": "No other types of international transactions, such as trade finance, cross-border ACH, and management of sovereign debt.  The financial institution is in compliance with the IAT (International ACH Transactions) policy.",
+        "Moderate Risk": "Limited other types of international transactions.  The financial institution is in compliance with the IAT policy.",
+        "High Risk": "A high number of other types of international transactions.  The financial institution is not in compliance with the IAT policy.",
+        "Score": 0.0
+    },
+    {
+        "Code": "OFAC",
+        "Risk Category": "OFAC violation history",
+        "Low Risk": "No history of OFAC actions. No evidence of apparent violation or circumstances that might lead to a violation.",
+        "Moderate Risk": "A small number of recent actions (i.e., actions within the last five years) by OFAC, including notice letters, or civil money penalties, with evidence that the financial institution addressed the issues and is not at risk of similar violations in the future.",
+        "High Risk": "Multiple recent actions by OFAC, where the financial institution has not addressed the issues, thus leading to an increased risk of the financial institution undertaking similar violations in the future.",
+        "Score": 0.0
+    }
+]

@@ -1,0 +1,42 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# database & logs
+*.db
+*.sqlite3
+*.log
+
+# venv
+env
+venv
+.env
+
+# other
+.DS_Store
+
+# sphinx docs 
+_build
+_static
+_templates
+
+# javascript
+package-lock.json
+.vscode/symbols.json
+
+# Ignore Node.js modules folders
+node_modules/
+client/node_modules/
+2920wall/
+2920/
+libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+libssl1.1_1.1.1f-1ubuntu2_amd64.deb.1
+
+apps/static/assets/node_modules
+apps/static/assets/yarn.lock
+apps/static/assets/.temp
+
